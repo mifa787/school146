@@ -150,7 +150,7 @@ a:hover {
 
 .dropdown:hover .dropbtn {background-color: #172C77}
 
-.top-left {
+.top-right {
     position: absolute;
     font-size: 500%;
     top: 35%;
@@ -158,6 +158,14 @@ a:hover {
     color: #FF9700;
 }
 
+.top-right {
+    position: absolute;
+    font-size: 100%;
+    top: 38.5%;
+    left: 35%;
+    right: 30%;
+    color: black;
+}
 
 .knopka03 {
     position: absolute;
@@ -178,3 +186,6 @@ a:hover {
     color: white;
     user-select: none;
   } 
+.director {
+    padding: 5%;
+}
