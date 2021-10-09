@@ -149,3 +149,32 @@ a:hover {
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #172C77}
+
+.top-left {
+    position: absolute;
+    font-size: 500%;
+    top: 35%;
+    left: 5%;
+    color: #FF9700;
+}
+
+
+.knopka03 {
+    position: absolute;
+    font-size: 200%;
+    top: 50%;
+    left: 5%;
+    color: #FF9700;
+    display: inline-block;
+    width: 500px;
+    height: 70px;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    border-radius: 35px;
+    margin-top: 10px;
+    background-color: #FF9700;
+    color: white;
+    user-select: none;
+  } 
