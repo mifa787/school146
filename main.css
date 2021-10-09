@@ -47,7 +47,6 @@ a:hover {
     height: 150px;
     background-color: #B2CCE2;
     color: black;
-    position: absolute;
     bottom: 0;
 }
 .left-footer {
@@ -75,3 +74,38 @@ a:hover {
     display:block;
     margin:auto;
 }
+.knopka01 {
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: #FF9700;
+    color: white;
+    user-select: none;
+  } 
+  .knopka01:hover {
+    color: rgb(0,59,66);
+    cursor: pointer;
+  }
+
+  .knopka02 {
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 1% ;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: #F4EADD;
+    border-color: #294297;
+    color: #294297;
+    user-select: none;
+  } 
